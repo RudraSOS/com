@@ -1,0 +1,6 @@
+click on calender icon
+calender opens and shows month and year like this JAN 2022
+extract year using substring or split
+create method selectYear and pass the year to be choosen
+if year visible and year to be chosen are not same then in while loop 
+execute clikc
